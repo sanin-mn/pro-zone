@@ -1,3 +1,3 @@
 # Shopping Cart
 
-sanin shopping cart
+shopping cart
